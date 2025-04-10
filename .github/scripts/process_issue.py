@@ -45,6 +45,7 @@ from enum import Enum, IntEnum
 import itertools as itt
 import logging
 import os
+from pathlib import Path
 import re
 import subprocess
 import sys
@@ -58,6 +59,9 @@ import click
 import more_itertools
 import requests
 import yaml
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
+from scripts.format_yaml import format_yaml_file
 
 logger = logging.getLogger(__name__)
 
@@ -88,8 +92,8 @@ class GitHub(str, Enum):
     """Define constraints for GitHub values"""
 
     BRANCH = "main"
-    OWNER = "bridge2ai"
-    REPO = "b2ai-standards-registry"
+    OWNER = "Krt-11"
+    REPO = "b2ai"
 
 
 class ExitCode(IntEnum):
@@ -494,7 +498,7 @@ def _update_yaml(issue_to_resource: Dict[int, dict]) -> None:
     for issue_number, resource in issue_to_resource.items():
         click.echo(f"🚀 Adding {resource['name']} (#{issue_number})")
         data_path = f"{DATA_DIR}{''.join(resource['entity_type'].title().split())}.yaml"
-
+        
         with open(data_path, "r") as yaml_file:
             this_yaml = yaml.safe_load(yaml_file)
             collection_name = COLLECTION_NAMES[resource["entity_type"]]
@@ -531,6 +535,8 @@ def _update_yaml(issue_to_resource: Dict[int, dict]) -> None:
         if this_yaml:
             with open(data_path, "w") as yamlfile:
                 yaml.safe_dump(this_yaml, yamlfile, sort_keys=False)
+                
+        format_yaml_file(data_path)
 
 
 @click.command()
