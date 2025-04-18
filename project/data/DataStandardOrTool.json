@@ -18601,6 +18601,16 @@
       "is_open": true,
       "requires_registration": false,
       "url": "https://cytoscape.org/cx/"
+    },
+    {
+      "id": "B2AI_STANDARD:899",
+      "category": "B2AI_STANDARD:DataStandard",
+      "name": "test entity",
+      "description": "testing entity creation",
+      "contributor_name": "K",
+      "contributor_github_name": "Krt-11",
+      "contributor_orcid": "0009-0007-7070-6710",
+      "purpose_detail": "test entity - which checks the PR workflow"
     }
   ],
   "@type": "DataStandardOrToolContainer"

@@ -43,7 +43,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:67
+  - B2AI_ORG:67
   concerns_data_topic:
   - B2AI_TOPIC:5
 - id: B2AI_STANDARD:3
@@ -77,7 +77,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:93
+  - B2AI_ORG:93
 - id: B2AI_STANDARD:4
   name: AGP
   category: B2AI_STANDARD:BiomedicalStandard
@@ -130,7 +130,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:8
+  - B2AI_ORG:8
 - id: B2AI_STANDARD:6
   name: ARRIVE
   category: B2AI_STANDARD:BiomedicalStandard
@@ -162,7 +162,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
 - id: B2AI_STANDARD:8
   name: AIM
   category: B2AI_STANDARD:BiomedicalStandard
@@ -281,7 +281,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:79
+  - B2AI_ORG:79
 - id: B2AI_STANDARD:14
   name: StructureDefinition-argo-careplan
   category: B2AI_STANDARD:BiomedicalStandard
@@ -307,7 +307,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
   related_to:
   - B2AI_STANDARD:109
 - id: B2AI_STANDARD:15
@@ -350,7 +350,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:119
+  - B2AI_ORG:119
 - id: B2AI_STANDARD:17
   name: BAI
   category: B2AI_STANDARD:BiomedicalStandard
@@ -388,7 +388,7 @@ data_standardortools_collection:
   - B2AI_STANDARD:19
   - B2AI_STANDARD:20
   responsible_organization:
-    - B2AI_ORG:119
+  - B2AI_ORG:119
 - id: B2AI_STANDARD:19
   name: bigBED
   category: B2AI_STANDARD:BiomedicalStandard
@@ -410,7 +410,7 @@ data_standardortools_collection:
   - B2AI_STANDARD:18
   - B2AI_STANDARD:20
   responsible_organization:
-    - B2AI_ORG:119
+  - B2AI_ORG:119
 - id: B2AI_STANDARD:20
   name: bigWig
   category: B2AI_STANDARD:BiomedicalStandard
@@ -432,7 +432,7 @@ data_standardortools_collection:
   - B2AI_STANDARD:18
   - B2AI_STANDARD:19
   responsible_organization:
-    - B2AI_ORG:119
+  - B2AI_ORG:119
 - id: B2AI_STANDARD:21
   name: BAM/CRAM
   category: B2AI_STANDARD:BiomedicalStandard
@@ -453,8 +453,8 @@ data_standardortools_collection:
   related_to:
   - B2AI_STANDARD:22
   has_relevant_organization:
-    - B2AI_ORG:117
-    - B2AI_ORG:116
+  - B2AI_ORG:117
+  - B2AI_ORG:116
 - id: B2AI_STANDARD:22
   name: BAM
   category: B2AI_STANDARD:BiomedicalStandard
@@ -493,7 +493,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:119
+  - B2AI_ORG:119
 - id: B2AI_STANDARD:24
   name: BCF
   category: B2AI_STANDARD:BiomedicalStandard
@@ -592,7 +592,6 @@ data_standardortools_collection:
   contributor_name: Harry Caufield
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
-
 - id: B2AI_STANDARD:29
   name: BioPAX
   category: B2AI_STANDARD:BiomedicalStandard
@@ -773,7 +772,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:119
+  - B2AI_ORG:119
 - id: B2AI_STANDARD:37
   name: BPMN
   category: B2AI_STANDARD:BiomedicalStandard
@@ -859,7 +858,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:15
+  - B2AI_ORG:15
 - id: B2AI_STANDARD:41
   name: CDISC ADaM
   category: B2AI_STANDARD:BiomedicalStandard
@@ -880,7 +879,7 @@ data_standardortools_collection:
   - B2AI_STANDARD:42
   - B2AI_STANDARD:43
   responsible_organization:
-    - B2AI_ORG:15
+  - B2AI_ORG:15
 - id: B2AI_STANDARD:42
   name: CDISC Protocol
   category: B2AI_STANDARD:BiomedicalStandard
@@ -901,7 +900,7 @@ data_standardortools_collection:
   - B2AI_STANDARD:41
   - B2AI_STANDARD:43
   responsible_organization:
-    - B2AI_ORG:15
+  - B2AI_ORG:15
 - id: B2AI_STANDARD:43
   name: CDISC TAUGs
   category: B2AI_STANDARD:BiomedicalStandard
@@ -923,7 +922,7 @@ data_standardortools_collection:
   - B2AI_STANDARD:41
   - B2AI_STANDARD:42
   responsible_organization:
-    - B2AI_ORG:15
+  - B2AI_ORG:15
 - id: B2AI_STANDARD:44
   name: SDTM
   category: B2AI_STANDARD:BiomedicalStandard
@@ -944,7 +943,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:15
+  - B2AI_ORG:15
 - id: B2AI_STANDARD:45
   name: CDASH
   category: B2AI_STANDARD:BiomedicalStandard
@@ -965,7 +964,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:15
+  - B2AI_ORG:15
 - id: B2AI_STANDARD:46
   name: CDISC Dataset
   category: B2AI_STANDARD:BiomedicalStandard
@@ -994,7 +993,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:15
+  - B2AI_ORG:15
   concerns_data_topic:
   - B2AI_TOPIC:4
 - id: B2AI_STANDARD:47
@@ -1019,7 +1018,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:15
+  - B2AI_ORG:15
 - id: B2AI_STANDARD:48
   name: CDISC ODM
   category: B2AI_STANDARD:BiomedicalStandard
@@ -1041,7 +1040,7 @@ data_standardortools_collection:
   related_to:
   - B2AI_STANDARD:689
   responsible_organization:
-    - B2AI_ORG:15
+  - B2AI_ORG:15
 - id: B2AI_STANDARD:49
   name: CDISC PRM
   category: B2AI_STANDARD:BiomedicalStandard
@@ -1069,7 +1068,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:15
+  - B2AI_ORG:15
 - id: B2AI_STANDARD:50
   name: SEND
   category: B2AI_STANDARD:BiomedicalStandard
@@ -1087,7 +1086,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:15
+  - B2AI_ORG:15
   concerns_data_topic:
   - B2AI_TOPIC:4
 - id: B2AI_STANDARD:51
@@ -1116,7 +1115,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:15
+  - B2AI_ORG:15
 - id: B2AI_STANDARD:52
   name: CHADO
   category: B2AI_STANDARD:BiomedicalStandard
@@ -1150,7 +1149,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:119
+  - B2AI_ORG:119
 - id: B2AI_STANDARD:54
   name: CARD
   category: B2AI_STANDARD:BiomedicalStandard
@@ -1238,7 +1237,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:16
+  - B2AI_ORG:16
 - id: B2AI_STANDARD:58
   name: MSF
   category: B2AI_STANDARD:BiomedicalStandard
@@ -1356,7 +1355,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:68
+  - B2AI_ORG:68
 - id: B2AI_STANDARD:64
   name: Common Metadata
   category: B2AI_STANDARD:BiomedicalStandard
@@ -1420,7 +1419,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
 - id: B2AI_STANDARD:67
   name: COREQ
   category: B2AI_STANDARD:BiomedicalStandard
@@ -1587,7 +1586,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:23
+  - B2AI_ORG:23
 - id: B2AI_STANDARD:76
   name: DOS-DP
   category: B2AI_STANDARD:BiomedicalStandard
@@ -2275,7 +2274,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:93
+  - B2AI_ORG:93
   concerns_data_topic:
   - B2AI_TOPIC:1
 - id: B2AI_STANDARD:103
@@ -2298,7 +2297,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:61
+  - B2AI_ORG:61
 - id: B2AI_STANDARD:104
   name: EORTC QLQ
   category: B2AI_STANDARD:BiomedicalStandard
@@ -2404,7 +2403,7 @@ data_standardortools_collection:
   category: B2AI_STANDARD:BiomedicalStandard
   description: Fast Healthcare Interoperability Resources
   collection:
-    - has_ai_application
+  - has_ai_application
   has_training_resource:
   - B2AI_STANDARD:845
   - B2AI_STANDARD:846
@@ -2520,7 +2519,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
   related_to:
   - B2AI_STANDARD:109
   concerns_data_topic:
@@ -2552,7 +2551,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
   related_to:
   - B2AI_STANDARD:109
 - id: B2AI_STANDARD:115
@@ -2579,7 +2578,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
   related_to:
   - B2AI_STANDARD:109
 - id: B2AI_STANDARD:116
@@ -2603,7 +2602,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
 - id: B2AI_STANDARD:117
   name: ConceptMap
   category: B2AI_STANDARD:BiomedicalStandard
@@ -2625,7 +2624,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
   concerns_data_topic:
   - B2AI_TOPIC:4
   - B2AI_TOPIC:32
@@ -2650,7 +2649,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
 - id: B2AI_STANDARD:119
   name: TerminologyCapabilities
   category: B2AI_STANDARD:BiomedicalStandard
@@ -2672,7 +2671,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
 - id: B2AI_STANDARD:120
   name: ValueSet
   category: B2AI_STANDARD:BiomedicalStandard
@@ -2694,7 +2693,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
 - id: B2AI_STANDARD:121
   name: FCS
   category: B2AI_STANDARD:BiomedicalStandard
@@ -2739,7 +2738,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:32
+  - B2AI_ORG:32
 - id: B2AI_STANDARD:123
   name: FACT-G
   category: B2AI_STANDARD:BiomedicalStandard
@@ -2770,7 +2769,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:30
+  - B2AI_ORG:30
 - id: B2AI_STANDARD:124
   name: FACIT-Dyspnea
   category: B2AI_STANDARD:BiomedicalStandard
@@ -2790,7 +2789,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:30
+  - B2AI_ORG:30
 - id: B2AI_STANDARD:125
   name: FANLTC
   category: B2AI_STANDARD:BiomedicalStandard
@@ -2813,7 +2812,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:30
+  - B2AI_ORG:30
 - id: B2AI_STANDARD:126
   name: Regier2018
   category: B2AI_STANDARD:BiomedicalStandard
@@ -2913,7 +2912,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:34
+  - B2AI_ORG:34
 - id: B2AI_STANDARD:131
   name: Gating-ML
   category: B2AI_STANDARD:BiomedicalStandard
@@ -2976,7 +2975,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:119
+  - B2AI_ORG:119
 - id: B2AI_STANDARD:134
   name: GPAD
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3009,7 +3008,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:36
+  - B2AI_ORG:36
 - id: B2AI_STANDARD:135
   name: GTF
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3029,7 +3028,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:119
+  - B2AI_ORG:119
 - id: B2AI_STANDARD:136
   name: GMT
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3080,7 +3079,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:36
+  - B2AI_ORG:36
 - id: B2AI_STANDARD:139
   name: Beacon
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3102,7 +3101,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:34
+  - B2AI_ORG:34
 - id: B2AI_STANDARD:140
   name: GVF
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3141,7 +3140,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:38
+  - B2AI_ORG:38
 - id: B2AI_STANDARD:142
   name: GGBN
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3163,7 +3162,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:93
+  - B2AI_ORG:93
 - id: B2AI_STANDARD:143
   name: GlycoCT
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3231,7 +3230,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:93
+  - B2AI_ORG:93
 - id: B2AI_STANDARD:146
   name: GIATE
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3273,7 +3272,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:39
+  - B2AI_ORG:39
 - id: B2AI_STANDARD:148
   name: HCPCS
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3295,7 +3294,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:17
+  - B2AI_ORG:17
 - id: B2AI_STANDARD:149
   name: HISPID3
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3321,7 +3320,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:93
+  - B2AI_ORG:93
   concerns_data_topic:
   - B2AI_TOPIC:1
 - id: B2AI_STANDARD:150
@@ -3369,7 +3368,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
 - id: B2AI_STANDARD:152
   name: HL7 CDA Data Provenance
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3388,7 +3387,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
 - id: B2AI_STANDARD:153
   name: DiagnosticReport
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3415,7 +3414,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
 - id: B2AI_STANDARD:154
   name: GenomicStudy
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3442,7 +3441,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
 - id: B2AI_STANDARD:155
   name: MolecularSequence
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3466,7 +3465,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
 - id: B2AI_STANDARD:156
   name: Observation
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3490,7 +3489,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
 - id: B2AI_STANDARD:157
   name: Patient
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3515,7 +3514,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
 - id: B2AI_STANDARD:158
   name: Specimen
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3539,7 +3538,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
 - id: B2AI_STANDARD:159
   name: GHP
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3564,7 +3563,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
 - id: B2AI_STANDARD:160
   name: TraML
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3585,7 +3584,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:41
+  - B2AI_ORG:41
 - id: B2AI_STANDARD:161
   name: IEEE P360
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3606,7 +3605,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:44
+  - B2AI_ORG:44
 - id: B2AI_STANDARD:162
   name: BPPC
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3625,7 +3624,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:46
+  - B2AI_ORG:46
 - id: B2AI_STANDARD:163
   name: IHE CDS-OAT
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3643,7 +3642,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:46
+  - B2AI_ORG:46
 - id: B2AI_STANDARD:164
   name: CRD
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3660,7 +3659,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:46
+  - B2AI_ORG:46
 - id: B2AI_STANDARD:165
   name: IHE XCPD
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3677,7 +3676,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:46
+  - B2AI_ORG:46
 - id: B2AI_STANDARD:166
   name: IHE ITI
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3694,7 +3693,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:46
+  - B2AI_ORG:46
 - id: B2AI_STANDARD:167
   name: LAW
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3711,7 +3710,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:46
+  - B2AI_ORG:46
 - id: B2AI_STANDARD:168
   name: IHE PCD
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3726,7 +3725,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:46
+  - B2AI_ORG:46
 - id: B2AI_STANDARD:169
   name: IHE PDQ
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3744,7 +3743,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:46
+  - B2AI_ORG:46
 - id: B2AI_STANDARD:170
   name: RFD
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3762,7 +3761,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:46
+  - B2AI_ORG:46
   concerns_data_topic:
   - B2AI_TOPIC:4
 - id: B2AI_STANDARD:171
@@ -3843,7 +3842,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:14
+  - B2AI_ORG:14
 - id: B2AI_STANDARD:175
   name: ICD-11
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3862,7 +3861,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:100
+  - B2AI_ORG:100
 - id: B2AI_STANDARD:176
   name: ICD-9-CM
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3881,7 +3880,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:14
+  - B2AI_ORG:14
 - id: B2AI_STANDARD:177
   name: INTRPRT
   category: B2AI_STANDARD:BiomedicalStandard
@@ -3974,7 +3973,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:50
+  - B2AI_ORG:50
 - id: B2AI_STANDARD:182
   name: JCAMP-DX
   category: B2AI_STANDARD:BiomedicalStandard
@@ -4001,7 +4000,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:51
+  - B2AI_ORG:51
   concerns_data_topic:
   - B2AI_TOPIC:3
   - B2AI_TOPIC:28
@@ -4062,7 +4061,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:52
+  - B2AI_ORG:52
 - id: B2AI_STANDARD:186
   name: LS-DAM
   category: B2AI_STANDARD:BiomedicalStandard
@@ -4106,7 +4105,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:53
+  - B2AI_ORG:53
 - id: B2AI_STANDARD:188
   name: mmCIF
   category: B2AI_STANDARD:BiomedicalStandard
@@ -4128,7 +4127,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:82
+  - B2AI_ORG:82
 - id: B2AI_STANDARD:189
   name: MSAML
   category: B2AI_STANDARD:BiomedicalStandard
@@ -4206,7 +4205,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:60
+  - B2AI_ORG:60
 - id: B2AI_STANDARD:193
   name: MNC
   category: B2AI_STANDARD:BiomedicalStandard
@@ -4250,7 +4249,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:17
+  - B2AI_ORG:17
 - id: B2AI_STANDARD:195
   name: MEDIN
   category: B2AI_STANDARD:BiomedicalStandard
@@ -4465,7 +4464,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:19
+  - B2AI_ORG:19
 - id: B2AI_STANDARD:206
   name: MIFlowCyt
   category: B2AI_STANDARD:BiomedicalStandard
@@ -4508,7 +4507,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:41
+  - B2AI_ORG:41
 - id: B2AI_STANDARD:208
   name: MIARE
   category: B2AI_STANDARD:BiomedicalStandard
@@ -4550,7 +4549,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:38
+  - B2AI_ORG:38
 - id: B2AI_STANDARD:210
   name: MIAPPE
   category: B2AI_STANDARD:BiomedicalStandard
@@ -4649,7 +4648,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:41
+  - B2AI_ORG:41
 - id: B2AI_STANDARD:215
   name: ModelCIF
   category: B2AI_STANDARD:BiomedicalStandard
@@ -4707,7 +4706,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:119
+  - B2AI_ORG:119
 - id: B2AI_STANDARD:218
   name: mz5
   category: B2AI_STANDARD:BiomedicalStandard
@@ -4746,7 +4745,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:41
+  - B2AI_ORG:41
 - id: B2AI_STANDARD:220
   name: mzIndentML
   category: B2AI_STANDARD:BiomedicalStandard
@@ -4770,7 +4769,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:41
+  - B2AI_ORG:41
 - id: B2AI_STANDARD:221
   name: mzML
   category: B2AI_STANDARD:BiomedicalStandard
@@ -4799,7 +4798,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:41
+  - B2AI_ORG:41
 - id: B2AI_STANDARD:222
   name: mzQuantML
   category: B2AI_STANDARD:BiomedicalStandard
@@ -4830,7 +4829,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:41
+  - B2AI_ORG:41
 - id: B2AI_STANDARD:223
   name: mzXML
   category: B2AI_STANDARD:BiomedicalStandard
@@ -4864,7 +4863,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:71
+  - B2AI_ORG:71
 - id: B2AI_STANDARD:225
   name: NEMSIS
   category: B2AI_STANDARD:BiomedicalStandard
@@ -4905,7 +4904,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:81
+  - B2AI_ORG:81
 - id: B2AI_STANDARD:227
   name: NCD
   category: B2AI_STANDARD:BiomedicalStandard
@@ -4931,7 +4930,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:93
+  - B2AI_ORG:93
   concerns_data_topic:
   - B2AI_TOPIC:1
 - id: B2AI_STANDARD:228
@@ -4972,7 +4971,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:63
+  - B2AI_ORG:63
 - id: B2AI_STANDARD:230
   name: NESTcc DQF
   category: B2AI_STANDARD:BiomedicalStandard
@@ -4991,7 +4990,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:64
+  - B2AI_ORG:64
   concerns_data_topic:
   - B2AI_TOPIC:4
 - id: B2AI_STANDARD:231
@@ -5194,7 +5193,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:9
+  - B2AI_ORG:9
   concerns_data_topic:
   - B2AI_TOPIC:3
 - id: B2AI_STANDARD:241
@@ -5274,7 +5273,7 @@ data_standardortools_collection:
   - B2AI_STANDARD:698
   - B2AI_STANDARD:703
   responsible_organization:
-    - B2AI_ORG:76
+  - B2AI_ORG:76
 - id: B2AI_STANDARD:244
   name: OMOP CEM
   category: B2AI_STANDARD:BiomedicalStandard
@@ -5300,7 +5299,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:76
+  - B2AI_ORG:76
 - id: B2AI_STANDARD:245
   name: OBO
   category: B2AI_STANDARD:BiomedicalStandard
@@ -5338,9 +5337,9 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   has_relevant_organization:
-    - B2AI_ORG:114
+  - B2AI_ORG:114
   collection:
-    - has_ai_application
+  - has_ai_application
 - id: B2AI_STANDARD:247
   name: OME-TIFF
   category: B2AI_STANDARD:BiomedicalStandard
@@ -5359,7 +5358,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:77
+  - B2AI_ORG:77
 - id: B2AI_STANDARD:248
   name: OME-XML
   category: B2AI_STANDARD:BiomedicalStandard
@@ -5380,7 +5379,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:77
+  - B2AI_ORG:77
 - id: B2AI_STANDARD:249
   name: OMEX
   category: B2AI_STANDARD:BiomedicalStandard
@@ -5400,7 +5399,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:19
+  - B2AI_ORG:19
 - id: B2AI_STANDARD:250
   name: OpenICE
   category: B2AI_STANDARD:BiomedicalStandard
@@ -5422,7 +5421,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    -  B2AI_ORG:54
+  - B2AI_ORG:54
 - id: B2AI_STANDARD:251
   name: AOM14
   category: B2AI_STANDARD:BiomedicalStandard
@@ -5448,7 +5447,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:79
+  - B2AI_ORG:79
 - id: B2AI_STANDARD:252
   name: openEHR
   category: B2AI_STANDARD:BiomedicalStandard
@@ -5471,7 +5470,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:79
+  - B2AI_ORG:79
 - id: B2AI_STANDARD:253
   name: ORION
   category: B2AI_STANDARD:BiomedicalStandard
@@ -5526,7 +5525,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    -  B2AI_ORG:54
+  - B2AI_ORG:54
 - id: B2AI_STANDARD:255
   name: HMMER Format
   category: B2AI_STANDARD:BiomedicalStandard
@@ -5571,7 +5570,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:34
+  - B2AI_ORG:34
 - id: B2AI_STANDARD:257
   name: PHIN Guide
   category: B2AI_STANDARD:BiomedicalStandard
@@ -5633,7 +5632,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:4
+  - B2AI_ORG:4
 - id: B2AI_STANDARD:260
   name: PEP
   category: B2AI_STANDARD:BiomedicalStandard
@@ -5747,7 +5746,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:41
+  - B2AI_ORG:41
 - id: B2AI_STANDARD:265
   name: PSI GelML
   category: B2AI_STANDARD:BiomedicalStandard
@@ -5767,7 +5766,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:41
+  - B2AI_ORG:41
 - id: B2AI_STANDARD:266
   name: PSI-MI XML
   category: B2AI_STANDARD:BiomedicalStandard
@@ -5798,7 +5797,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:41
+  - B2AI_ORG:41
 - id: B2AI_STANDARD:267
   name: qcML
   category: B2AI_STANDARD:BiomedicalStandard
@@ -5957,7 +5956,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:89
+  - B2AI_ORG:89
 - id: B2AI_STANDARD:273
   name: SAM
   category: B2AI_STANDARD:BiomedicalStandard
@@ -6117,7 +6116,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:48
+  - B2AI_ORG:48
 - id: B2AI_STANDARD:281
   name: STARD
   category: B2AI_STANDARD:BiomedicalStandard
@@ -6216,7 +6215,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:91
+  - B2AI_ORG:91
 - id: B2AI_STANDARD:285
   name: SDF
   category: B2AI_STANDARD:BiomedicalStandard
@@ -6386,7 +6385,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:93
+  - B2AI_ORG:93
   concerns_data_topic:
   - B2AI_TOPIC:1
 - id: B2AI_STANDARD:293
@@ -6409,7 +6408,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:93
+  - B2AI_ORG:93
 - id: B2AI_STANDARD:294
   name: ToxML
   category: B2AI_STANDARD:BiomedicalStandard
@@ -6451,7 +6450,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:12
+  - B2AI_ORG:12
 - id: B2AI_STANDARD:296
   name: TIM+
   category: B2AI_STANDARD:BiomedicalStandard
@@ -6506,7 +6505,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:31
+  - B2AI_ORG:31
 - id: B2AI_STANDARD:299
   name: VCF
   category: B2AI_STANDARD:BiomedicalStandard
@@ -6528,7 +6527,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   has_relevant_organization:
-    - B2AI_ORG:117
+  - B2AI_ORG:117
 - id: B2AI_STANDARD:300
   name: VEP
   category: B2AI_STANDARD:BiomedicalStandard
@@ -6561,9 +6560,9 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   collection:
-    - has_ai_application
+  - has_ai_application
   responsible_organization:
-    - B2AI_ORG:34
+  - B2AI_ORG:34
 - id: B2AI_STANDARD:302
   name: VarioML
   category: B2AI_STANDARD:BiomedicalStandard
@@ -6660,7 +6659,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:99
+  - B2AI_ORG:99
 - id: B2AI_STANDARD:306
   name: WIG
   category: B2AI_STANDARD:BiomedicalStandard
@@ -6680,7 +6679,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:119
+  - B2AI_ORG:119
 - id: B2AI_STANDARD:307
   name: LSM
   category: B2AI_STANDARD:BiomedicalStandard
@@ -6700,7 +6699,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:101
+  - B2AI_ORG:101
 - id: B2AI_STANDARD:308
   name: AMR
   category: B2AI_STANDARD:DataStandard
@@ -7418,7 +7417,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   has_relevant_organization:
-    - B2AI_ORG:116
+  - B2AI_ORG:116
 - id: B2AI_STANDARD:348
   name: MathML
   category: B2AI_STANDARD:DataStandard
@@ -7647,7 +7646,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   has_relevant_organization:
-    - B2AI_ORG:114
+  - B2AI_ORG:114
 - id: B2AI_STANDARD:360
   name: PURL
   category: B2AI_STANDARD:DataStandard
@@ -7882,9 +7881,9 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   collection:
-    - has_ai_application
+  - has_ai_application
   has_relevant_organization:
-    - B2AI_ORG:116
+  - B2AI_ORG:116
 - id: B2AI_STANDARD:373
   name: RDF
   category: B2AI_STANDARD:DataStandard
@@ -9100,9 +9099,9 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   collection:
-    - has_ai_application
+  - has_ai_application
   has_relevant_organization:
-    - B2AI_ORG:116
+  - B2AI_ORG:116
 - id: B2AI_STANDARD:445
   name: ECO
   category: B2AI_STANDARD:OntologyOrVocabulary
@@ -14066,9 +14065,9 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   collection:
-    - has_ai_application
+  - has_ai_application
   has_relevant_organization:
-    - B2AI_ORG:117
+  - B2AI_ORG:117
 - id: B2AI_STANDARD:733
   name: ACHILLES
   has_training_resource:
@@ -14612,9 +14611,9 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   has_relevant_organization:
-    -  B2AI_ORG:116
+  - B2AI_ORG:116
   collection:
-    - has_ai_application
+  - has_ai_application
 - id: B2AI_STANDARD:765
   name: FastAI
   category: B2AI_STANDARD:SoftwareOrTool
@@ -15270,7 +15269,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   has_relevant_organization:
-    -  B2AI_ORG:116
+  - B2AI_ORG:116
 - id: B2AI_STANDARD:801
   name: MySQL
   category: B2AI_STANDARD:SoftwareOrTool
@@ -15634,10 +15633,10 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   has_relevant_organization:
-    - B2AI_ORG:114
-    - B2AI_ORG:117
+  - B2AI_ORG:114
+  - B2AI_ORG:117
   collection:
-    - has_ai_application
+  - has_ai_application
 - id: B2AI_STANDARD:822
   name: Synapse
   category: B2AI_STANDARD:SoftwareOrTool
@@ -16154,9 +16153,9 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   collection:
-    - has_ai_application
+  - has_ai_application
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
 - id: B2AI_STANDARD:852
   name: FHIR USCDI
   subclass_of:
@@ -16181,7 +16180,7 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
 - id: B2AI_STANDARD:853
   name: FHIR USCDI v1
   subclass_of:
@@ -16208,9 +16207,9 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   collection:
-    - has_ai_application
+  - has_ai_application
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
 - id: B2AI_STANDARD:854
   name: FHIR USCDI v4
   subclass_of:
@@ -16237,9 +16236,9 @@ data_standardortools_collection:
   contributor_github_name: caufieldjh
   contributor_orcid: ORCID:0000-0001-5705-7831
   collection:
-    - has_ai_application
+  - has_ai_application
   responsible_organization:
-    - B2AI_ORG:40
+  - B2AI_ORG:40
 - id: B2AI_STANDARD:855
   name: Dedoose
   category: B2AI_STANDARD:SoftwareOrTool
@@ -16487,7 +16486,7 @@ data_standardortools_collection:
   contributor_orcid: ORCID:0000-0001-5705-7831
   contribution_date: '2023-06-20'
   collection:
-    - has_ai_application
+  - has_ai_application
 - id: B2AI_STANDARD:870
   name: GX
   category: B2AI_STANDARD:SoftwareOrTool
@@ -16860,7 +16859,8 @@ data_standardortools_collection:
 - id: B2AI_STANDARD:892
   category: B2AI_STANDARD:ReferenceImplementation
   name: Cho2021
-  description: Identifying Data Quality Dimensions for Person-Generated Wearable Device Data
+  description: Identifying Data Quality Dimensions for Person-Generated Wearable Device
+    Data
   publication: doi:10.2196/31618
   is_open: true
   requires_registration: false
@@ -16874,7 +16874,8 @@ data_standardortools_collection:
   category: B2AI_STANDARD:BiomedicalStandard
   name: REMBI
   description: Recommended Metadata for Biological Images (REMBI)
-  purpose_detail: Draft metadata guidelines to begin addressing the needs of diverse communities within light and electron microscopy
+  purpose_detail: Draft metadata guidelines to begin addressing the needs of diverse
+    communities within light and electron microscopy
   concerns_data_topic:
   - B2AI_TOPIC:15
   publication: doi:10.1038/s41592-021-01166-8
@@ -16890,44 +16891,45 @@ data_standardortools_collection:
   name: PRIDE
   description: PRoteomics IDEntifications Database
   collection:
-    - dataregistry
-    - has_ai_application
+  - dataregistry
+  - has_ai_application
   concerns_data_topic:
-    - B2AI_TOPIC:5
-    - B2AI_TOPIC:23
-  purpose_detail: The PRIDE PRoteomics IDEntifications (PRIDE) Archive database is a
-    centralized, standards compliant, public data repository for mass spectrometry
+  - B2AI_TOPIC:5
+  - B2AI_TOPIC:23
+  purpose_detail: The PRIDE PRoteomics IDEntifications (PRIDE) Archive database is
+    a centralized, standards compliant, public data repository for mass spectrometry
     proteomics data, including protein and peptide identifications and the corresponding
     expression values, post-translational modifications and supporting mass spectra
     evidence (both as raw data and peak list files). PRIDE is a core member in the
     ProteomeXchange (PX) consortium, which provides a standardised way for submitting
-    mass spectrometry based proteomics data to public-domain repositories. Datasets are
-    submitted to ProteomeXchange via PRIDE and are handled by expert bio-curators. All
-    PRIDE public datasets can also be searched in ProteomeCentral, the portal for all
-    ProteomeXchange datasets.
+    mass spectrometry based proteomics data to public-domain repositories. Datasets
+    are submitted to ProteomeXchange via PRIDE and are handled by expert bio-curators.
+    All PRIDE public datasets can also be searched in ProteomeCentral, the portal
+    for all ProteomeXchange datasets.
   is_open: true
   requires_registration: false
   url: https://www.ebi.ac.uk/pride/
   publication: doi:10.1093/nar/gkae1011
   has_relevant_organization:
-    - B2AI_ORG:116
+  - B2AI_ORG:116
 - id: B2AI_STANDARD:895
   category: B2AI_STANDARD:DataStandard
   name: ASCII File Format Guidelines for Earth Science Data
-  description: American Standard Code for Information Interchange ASCII File Format Guidelines for Earth Science Data
+  description: American Standard Code for Information Interchange ASCII File Format
+    Guidelines for Earth Science Data
   collection:
-    - fileformat
-    - has_ai_application
+  - fileformat
+  - has_ai_application
   concerns_data_topic:
-    - B2AI_TOPIC:5
-  purpose_detail: American Standard Code for Information Interchange (ASCII) file format
-    guidelines for NASA Earth science data.
+  - B2AI_TOPIC:5
+  purpose_detail: American Standard Code for Information Interchange (ASCII) file
+    format guidelines for NASA Earth science data.
   is_open: true
   requires_registration: false
   formal_specification: https://www.earthdata.nasa.gov/s3fs-public/imported/ESDS-RFC-027v1.1.pdf
   url: https://www.earthdata.nasa.gov/about/esdis/esco/standards-practices/ascii-file-format-guidelines-earth-science-data
   has_relevant_organization:
-    - B2AI_ORG:114
+  - B2AI_ORG:114
 - id: B2AI_STANDARD:896
   name: GIS Toolchain
   description: Geographic Informations Systems Toolchain
@@ -16938,20 +16940,20 @@ data_standardortools_collection:
     of the regions where patients live in OHDSI study cohort definitions. For example,
     you can use the GIS toolchain to define cohorts that include regional data on
     exposure to toxicants or social deprivation along with EHR data on relevant health
-    outcomes. The toolchain also includes informatics resources that support
-    integration with the main OHDSI tool stack (HADES) and integration with externally
-    supported solutions for geocoding and for finding and deriving relevant data
-    sources from catalogs of available data sources.
-    Importantly, the toolchain allows integrated analysis of geospatial and EHR data
-    without sharing any sensitive patient location data.
+    outcomes. The toolchain also includes informatics resources that support integration
+    with the main OHDSI tool stack (HADES) and integration with externally supported
+    solutions for geocoding and for finding and deriving relevant data sources from
+    catalogs of available data sources. Importantly, the toolchain allows integrated
+    analysis of geospatial and EHR data without sharing any sensitive patient location
+    data.
   collection:
   - datamodel
   - has_ai_application
   concerns_data_topic:
-    - B2AI_TOPIC:14
+  - B2AI_TOPIC:14
   has_relevant_organization:
-    - B2AI_ORG:76
-    - B2AI_ORG:115
+  - B2AI_ORG:76
+  - B2AI_ORG:115
   is_open: true
   requires_registration: false
   url: https://ohdsi.github.io/GIS/
@@ -16960,27 +16962,27 @@ data_standardortools_collection:
   category: B2AI_STANDARD:BiomedicalStandard
   description: Medical Imaging Common Data Model
   collection:
-    - datamodel
-    - has_ai_application
+  - datamodel
+  - has_ai_application
   concerns_data_topic:
   - B2AI_TOPIC:4
   has_relevant_organization:
   - B2AI_ORG:76
   - B2AI_ORG:115
   purpose_detail: The rapid growth of artificial intelligence (AI) and deep learning
-    techniques require access to large inter-institutional cohorts of data to enable the
-    development of robust models, e.g., targeting the identification of disease
-    biomarkers and quantifying disease progression and treatment efficacy. The
-    Observational Medical Outcomes Partnership Common Data Model (OMOP CDM) has been
-    designed to accommodate a harmonized representation of observational healthcare
-    data. This study proposes the Medical Imaging CDM (MI-CDM) extension, adding two new
-    tables and two vocabularies to the OMOP CDM to address the structural and semantic
-    requirements to support imaging research. The tables provide the capabilities of
-    linking DICOM data sources as well as tracking the provenance of imaging features
-    derived from those images. The implementation of the extension enables phenotype
-    definitions using imaging features and expanding standardized computable imaging
-    biomarkers. This proposal offers a comprehensive and unified approach for conducting
-    imaging research and outcome studies utilizing imaging features.
+    techniques require access to large inter-institutional cohorts of data to enable
+    the development of robust models, e.g., targeting the identification of disease
+    biomarkers and quantifying disease progression and treatment efficacy. The Observational
+    Medical Outcomes Partnership Common Data Model (OMOP CDM) has been designed to
+    accommodate a harmonized representation of observational healthcare data. This
+    study proposes the Medical Imaging CDM (MI-CDM) extension, adding two new tables
+    and two vocabularies to the OMOP CDM to address the structural and semantic requirements
+    to support imaging research. The tables provide the capabilities of linking DICOM
+    data sources as well as tracking the provenance of imaging features derived from
+    those images. The implementation of the extension enables phenotype definitions
+    using imaging features and expanding standardized computable imaging biomarkers.
+    This proposal offers a comprehensive and unified approach for conducting imaging
+    research and outcome studies utilizing imaging features.
   is_open: true
   requires_registration: false
   publication: doi:10.1007/s10278-024-00982-6
@@ -16992,16 +16994,24 @@ data_standardortools_collection:
   category: B2AI_STANDARD:DataStandard
   description: Cytoscape Exchange
   purpose_detail: Cytoscape Exchange (CX) format is a network exchange format, designed
-    as a flexible structure for transmission of networks. It is designed for
-    flexibility, modularity, and extensibility, and as a message payload in common REST
-    protocols. It is not intended as an in-memory data model for use in applications.
+    as a flexible structure for transmission of networks. It is designed for flexibility,
+    modularity, and extensibility, and as a message payload in common REST protocols.
+    It is not intended as an in-memory data model for use in applications.
   concerns_data_topic:
-    - B2AI_TOPIC:21
+  - B2AI_TOPIC:21
   collection:
-    - has_ai_application
-    - fileformat
+  - has_ai_application
+  - fileformat
   is_open: true
   requires_registration: false
   url: https://cytoscape.org/cx/
   has_relevant_organization:
-    - B2AI_ORG:116
+  - B2AI_ORG:116
+- id: B2AI_STANDARD:899
+  category: B2AI_STANDARD:DataStandard
+  name: test entity
+  description: testing entity creation
+  contributor_name: K
+  contributor_github_name: Krt-11
+  contributor_orcid: 0009-0007-7070-6710
+  purpose_detail: test entity - which checks the PR workflow
